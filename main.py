@@ -77,6 +77,8 @@ arr = [1, 2, 3, 4, 5]
 
 rotate_array(arr, 10)
 
+
+
 def longest_substring_without_repeating_characters(str):
     left = 0
     right = 0
